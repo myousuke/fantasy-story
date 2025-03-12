@@ -28,8 +28,9 @@ fantasy-story/
 │
 ├── stories/           # 短編や物語のコレクション
 │   ├── origins/       # 起源や始まりの物語
-│   ├── adventures/    # 冒険の物語
 │   ├── legends/       # 伝説や民話
+│   ├── urban_life/    # 都市や町での生活を描いた物語
+│   ├── adventures/    # 冒険の物語（予定）
 │   └── ...
 │
 └── roles/             # リポジトリ内での役割定義
