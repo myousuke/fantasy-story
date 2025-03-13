@@ -27,15 +27,17 @@ fantasy-story/
 │   ├── heroes/        # 主人公や英雄
 │   │   ├── azura.md   # アズラのキャラクター設定
 │   │   └── lion.md    # ライオンのキャラクター設定
-│   ├── villains/      # 敵対者や反派
-│   │   └── night_witch.md # 夜の魔女のキャラクター設定
+│   ├── witches/       # 魔女キャラクター
+│   │   ├── night_witch.md # 夜の魔女のキャラクター設定
+│   │   └── star_witch.md  # 星の魔女のキャラクター設定
 │   └── README.md      # キャラクター設定の概要
 │
 ├── stories/           # 短編や物語のコレクション
 │   ├── origins/       # 起源や始まりの物語
 │   │   └── first_spark.md # 最初の火花の物語
 │   ├── legends/       # 伝説や民話
-│   │   └── eternal_night_island.md # 永遠の夜の島の伝説
+│   │   ├── eternal_night_island.md # 永遠の夜の島の伝説
+│   │   └── star_witch_guidance.md # 星の魔女の導きの伝説
 │   ├── urban_life/    # 都市や町での生活を描いた物語
 │   │   ├── artisans_flame.md # 職人の炎
 │   │   ├── crossroad_dawn.md # 交差点の夜明け
