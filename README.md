@@ -17,26 +17,38 @@ fantasy-story/
 ├── world_settings/    # 世界観の設定に関するファイル
 │   ├── geography.md   # 地理的特徴
 │   ├── history.md     # 歴史的背景
-│   ├── magic.md       # 魔法システム
-│   └── ...
+│   ├── magic_system.md # 魔法システム
+│   ├── cities.md      # 都市の設定
+│   ├── currency_system.md # 通貨システム
+│   ├── eight_witches.md # 八人の魔女に関する設定
+│   └── README.md      # 世界観設定の概要
 │
 ├── characters/        # 人物やキャラクターの設定
 │   ├── heroes/        # 主人公や英雄
+│   │   ├── azura.md   # アズラのキャラクター設定
+│   │   └── lion.md    # ライオンのキャラクター設定
 │   ├── villains/      # 敵対者や反派
-│   ├── supporting/    # サポートキャラクター
-│   └── ...
+│   │   └── night_witch.md # 夜の魔女のキャラクター設定
+│   └── README.md      # キャラクター設定の概要
 │
 ├── stories/           # 短編や物語のコレクション
 │   ├── origins/       # 起源や始まりの物語
+│   │   └── first_spark.md # 最初の火花の物語
 │   ├── legends/       # 伝説や民話
+│   │   └── eternal_night_island.md # 永遠の夜の島の伝説
 │   ├── urban_life/    # 都市や町での生活を描いた物語
+│   │   ├── artisans_flame.md # 職人の炎
+│   │   ├── crossroad_dawn.md # 交差点の夜明け
+│   │   ├── crossroad_tavern_maid.md # 交差点の酒場の給仕
+│   │   ├── crossroads_currencies.md # 交差点の通貨
+│   │   └── mirage_city.md # 蜃気楼の都市
 │   ├── adventures/    # 冒険の物語（予定）
-│   └── ...
+│   └── README.md      # 物語コレクションの概要
 │
 └── roles/             # リポジトリ内での役割定義
     ├── novelist_role.md  # 小説家ロールの定義
     ├── editor_role.md    # 編集者ロールの定義
-    └── ...
+    └── README.md      # ロール定義の概要
 ```
 
 ## 使い方
