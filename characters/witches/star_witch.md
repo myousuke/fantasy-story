@@ -104,4 +104,3 @@
 
 ## 登場する物語
 
-- [星の魔女の導きの伝説](../../stories/legends/star_witch_guidance.md) - 星の魔女が迷い人を導く物語

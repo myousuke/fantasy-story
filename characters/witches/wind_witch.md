@@ -141,4 +141,3 @@
 
 ## 登場する物語
 
-- [交差点の夜明け](../../stories/urban_life/crossroad_dawn.md) - 風の魔女の祝福を受けた旅人の物語

@@ -139,4 +139,3 @@
 
 ## 登場する物語
 
-- [蜃気楼の都市](../../stories/urban_life/mirage_city.md) - 時の魔女の影響を受けた都市の物語

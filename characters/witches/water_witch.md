@@ -141,4 +141,3 @@
 
 ## 登場する物語
 
-- [交差点の通貨](../../stories/urban_life/crossroads_currencies.md) - 水の魔女の影響を受けた海洋貿易の物語

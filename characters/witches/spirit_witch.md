@@ -141,4 +141,3 @@
 
 ## 登場する物語
 
-- [交差点の酒場の給仕](../../stories/urban_life/crossroad_tavern_maid.md) - 霊の魔女の力に触れた少女の物語

@@ -104,4 +104,3 @@
 
 ## 登場する物語
 
-- [永遠の夜の島の伝説](../../stories/legends/eternal_night_island.md) - 夜の魔女の島に関する伝説

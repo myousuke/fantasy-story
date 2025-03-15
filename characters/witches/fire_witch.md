@@ -137,4 +137,3 @@
 
 ## 登場する物語
 
-- [職人の炎](../../stories/urban_life/artisans_flame.md) - 炎の魔女から鍛冶の炎を授かった職人の物語
