@@ -17,6 +17,38 @@
 - `heroes/` - 主人公や英雄的な役割を持つキャラクター
 - `witches/` - 八大魔女や魔女として登場するキャラクター
 
+## 主要キャラクター一覧
+
+### 英雄・主人公
+
+- [アズラ](heroes/azura.md) - ミラージュの水の魔法使い、水の守護者
+- [リオン](heroes/lion.md) - アルデン村出身の火の魔法使い見習い
+- [エリア](heroes/eria.md) - 酒場「四方の風」の看板娘、「交差点の語り部」
+- [ステラリア](heroes/stellaria.md) - 星の魔女ステラ・アストラの弟子、旅の魔法使い
+
+### 八大魔女
+
+- [星の魔女（ステラ・アストラ）](witches/star_witch.md) - 星、光、知識を司る魔女
+- [夜の魔女（ルナ・ノクターン）](witches/night_witch.md) - 夜、影、幻惑を司る魔女
+- [水の魔女](witches/water_witch.md) - 水、治癒、浄化を司る魔女
+- [火の魔女](witches/fire_witch.md) - 火、情熱、破壊を司る魔女
+- [風の魔女](witches/wind_witch.md) - 風、自由、変化を司る魔女
+- [大地の魔女](witches/earth_witch.md) - 大地、豊穣、安定を司る魔女
+- [時の魔女](witches/time_witch.md) - 時間、運命、予知を司る魔女
+- [霊の魔女](witches/spirit_witch.md) - 精霊、死者、境界を司る魔女
+
+### 重要な脇役
+
+- [ドリアン](heroes/dorian.md) - 酒場「四方の風」の店主、元冒険者
+- [セラ](heroes/sera.md) - リオンの幼馴染、薬師エレナの弟子
+- [マーカス](heroes/marcus.md) - アルデン村の長老、元魔法学院の図書館司書
+- [エリナ](heroes/elina.md) - リオンの母親
+- [ゴードン](heroes/gordon.md) - アルデン村の鍛冶屋
+- [レイモンド](heroes/raymond.md) - ノーランド王立学院の学者、古代魔法研究者
+- [ザヒル](heroes/zahir.md) - 砂漠の案内人、隊商の護衛
+- [カリム](heroes/karim.md) - ミラージュの水の長老、アズラの師匠
+- [ライラ](heroes/layla.md) - アズラの幼なじみ、薬草店の店主
+
 ## キャラクターシート形式
 
 各キャラクターのファイルは以下のような形式で記述することを推奨します：
