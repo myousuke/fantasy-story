@@ -78,3 +78,4 @@
 ## 登場する物語
 
 - [交差点の語り部](/stories/urban_life/crossroad_tavern_maid.md)
+- [交差点の物語の間](/stories/urban_life/crossroad_tavern_corner.md)
