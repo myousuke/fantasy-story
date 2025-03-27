@@ -84,3 +84,4 @@
 
 - [交差点の語り部](/stories/urban_life/crossroad_tavern_maid.md)
 - [交差点の調和の守り手](/stories/urban_life/crossroad_harmony_keeper.md)
+- [交差点の物語の間](/stories/urban_life/crossroad_tavern_corner.md)
